@@ -14,7 +14,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request 
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
-## Captura de Tela
-
 
 ![Hermes Zacary Ecaflip (1)](https://github.com/Hermes-Ecaflip/Hermes-Ecaflip/assets/166053159/6f3246cb-e850-4335-8757-8f96500d4198)
