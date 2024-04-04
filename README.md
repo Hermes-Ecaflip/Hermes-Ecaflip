@@ -4,21 +4,13 @@ Este é o repositório do meu projeto incrível. Aqui você encontrará tudo o q
 
 ## Visão Geral
 
-[Descreva brevemente o seu projeto aqui]
+[Olá! Bem-vindo ao meu projeto incrível de desenvolvimento front-end. Aqui, mergulho no mundo da criação de interfaces elegantes e funcionais para web, utilizando as mais recentes tecnologias e práticas da indústria. Este projeto é o resultado da minha paixão por design responsivo, usabilidade e experiência do usuário. Explore-o para descobrir como estou elevando o padrão do desenvolvimento web front-end!]
 
 ## Funcionalidades
 
 - [x] Funcionalidade 1
 - [x] Funcionalidade 2
 - [ ] Funcionalidade 3
-
-## Como Usar
-
-Siga estas etapas para começar com o meu projeto:
-
-1. Clone este repositório: ``
-2. Execute `npm install` para instalar as dependências.
-3. Execute `npm start` para iniciar o servidor.
 
 ## Contribuindo
 
