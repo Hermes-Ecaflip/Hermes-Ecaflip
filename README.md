@@ -4,7 +4,7 @@ Este é o repositório do meu projeto incrível. Aqui você encontrará tudo o q
 
 ## Visão Geral
 
-[Olá! Bem-vindo ao meu projeto incrível de desenvolvimento front-end. Aqui, mergulho no mundo da criação de interfaces elegantes e funcionais para web, utilizando as mais recentes tecnologias e práticas da indústria. Este projeto é o resultado da minha paixão por design responsivo, usabilidade e experiência do usuário. Explore-o para descobrir como estou elevando o padrão do desenvolvimento web front-end!]
+Olá! Bem-vindo ao meu projeto incrível de desenvolvimento front-end. Aqui, mergulho no mundo da criação de interfaces elegantes e funcionais para web, utilizando as mais recentes tecnologias e práticas da indústria. Este projeto é o resultado da minha paixão por design responsivo, usabilidade e experiência do usuário. Explore-o para descobrir como estou elevando o padrão do desenvolvimento web front-end!
 
 ## Funcionalidades
 
