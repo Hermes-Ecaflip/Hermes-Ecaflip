@@ -15,4 +15,12 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 
+
+
 ![Hermes Zacary Ecaflip (1)](https://github.com/Hermes-Ecaflip/Hermes-Ecaflip/assets/166053159/6f3246cb-e850-4335-8757-8f96500d4198)
+
+
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%#8B7765)
