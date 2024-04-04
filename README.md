@@ -1,4 +1,4 @@
-oi# Bem-vindo ao Meu Projeto Incrível! 🚀
+# Bem-vindo ao Meu Projeto Incrível! 🚀
 
 Este é o repositório do meu projeto incrível. Aqui você encontrará tudo o que precisa saber para começar.
 
