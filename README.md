@@ -18,9 +18,6 @@ Este projeto é construído com as seguintes tecnologias:
 
 Contribuições são bem-vindas! Se você tiver ideias, sugestões de melhorias ou encontrar algum problema, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-# 📊 Estatísticas GitHub:
-![](https://github-readme-stats.vercel.app/api?username= Hermes-zacary&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Lo-Padrinh0&theme=dark&hide_border=false)<br/>
 
 
 ## Licença
