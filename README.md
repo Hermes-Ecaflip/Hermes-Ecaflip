@@ -4,7 +4,7 @@ Este é o repositório do meu projeto incrível. Aqui você encontrará tudo o q
 
 ## Visão Geral
 
-Olá! Eu sou [Seu Nome], e este é meu projeto de desenvolvimento front-end. Aqui, eu me dedico a criar interfaces web que não apenas são visualmente atraentes, mas também funcionais e responsivas. Utilizo as mais recentes tecnologias e práticas da indústria para garantir que cada elemento do meu projeto seja pensado para oferecer a melhor experiência possível aos usuários. Explore-o para descobrir como estou elevando o padrão do desenvolvimento web front-end!
+Olá! Eu sou o Ângelo, e este é meu projeto de desenvolvimento front-end. Aqui, eu me dedico a criar interfaces web que não apenas são visualmente atraentes, mas também funcionais e responsivas. Utilizo as mais recentes tecnologias e práticas da indústria para garantir que cada elemento do meu projeto seja pensado para oferecer a melhor experiência possível aos usuários. Explore-o para descobrir como estou elevando o padrão do desenvolvimento web front-end!
 
 ## Tecnologias Utilizadas
 
@@ -22,7 +22,8 @@ Contribuições são bem-vindas! Se você tiver ideias, sugestões de melhorias 
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
-## Captura de Tela
+#EU
 
-![Insira uma captura de tela aqui](https://github.com/Hermes-Ecaflip/Hermes-Ecaflip/blob/main/assets/166053159/6f3246cb-e850-4335-8757-8f96500d4198.png)
+![Hermes Zacary Ecaflip](https://github.com/Hermes-Ecaflip/Hermes-Ecaflip/assets/166053159/1c309048-4e84-43a1-8564-780a3c3fd87a)
+
 
