@@ -4,23 +4,25 @@ Este é o repositório do meu projeto incrível. Aqui você encontrará tudo o q
 
 ## Visão Geral
 
-Olá! Bem-vindo ao meu projeto incrível de desenvolvimento front-end. Aqui, mergulho no mundo da criação de interfaces elegantes e funcionais para web, utilizando as mais recentes tecnologias e práticas da indústria. Este projeto é o resultado da minha paixão por design responsivo, usabilidade e experiência do usuário. Explore-o para descobrir como estou elevando o padrão do desenvolvimento web front-end!
+Olá! Eu sou [Seu Nome], e este é meu projeto de desenvolvimento front-end. Aqui, eu me dedico a criar interfaces web que não apenas são visualmente atraentes, mas também funcionais e responsivas. Utilizo as mais recentes tecnologias e práticas da indústria para garantir que cada elemento do meu projeto seja pensado para oferecer a melhor experiência possível aos usuários. Explore-o para descobrir como estou elevando o padrão do desenvolvimento web front-end!
 
-## Contribuindo
+## Tecnologias Utilizadas
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou uma issue.
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
-
+Este projeto é construído com as seguintes tecnologias:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%#8B7765)
 
-![Hermes Zacary Ecaflip (1)](https://github.com/Hermes-Ecaflip/Hermes-Ecaflip/assets/166053159/6f3246cb-e850-4335-8757-8f96500d4198)
+## Contribuindo
 
+Contribuições são bem-vindas! Se você tiver ideias, sugestões de melhorias ou encontrar algum problema, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
+## Licença
 
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
+## Captura de Tela
+
+![Insira uma captura de tela aqui](https://github.com/Hermes-Ecaflip/Hermes-Ecaflip/blob/main/assets/166053159/6f3246cb-e850-4335-8757-8f96500d4198.png)
 
