@@ -27,7 +27,7 @@ Contribuições são bem-vindas! Se você tiver ideias, sugestões de melhorias 
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
-#EU
+# EU
 
 ![Hermes Zacary Ecaflip](https://github.com/Hermes-Ecaflip/Hermes-Ecaflip/assets/166053159/1c309048-4e84-43a1-8564-780a3c3fd87a)
 
