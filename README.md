@@ -25,7 +25,8 @@ Contribuições são bem-vindas! Se você tiver ideias, sugestões de melhorias 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 
-![Bendy](https://github.com/Hermes-Ecaflip/Hermes-Ecaflip/assets/166053159/ad239000-16ae-47ab-be7c-b54fa8d0884c)
+
+<img height= "500" src = "https://github.com/Hermes-Ecaflip/Hermes-Ecaflip/assets/166053159/8aa38dc8-f87e-4385-80b4-2402ebb5d8e0">
 
 
 
