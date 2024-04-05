@@ -15,6 +15,8 @@ Linguagens que eu sei usar:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%#8B7765)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=DarkamiGem&theme=synthwave&size_weight=0.5&count_weight=0.5&title_color=36F9F6" alt="My GitHub Time Stats" />
+
 ## Contribuindo
 
 Contribuições são bem-vindas! Se você tiver ideias, sugestões de melhorias ou encontrar algum problema, sinta-se à vontade para abrir uma issue ou enviar um pull request.
