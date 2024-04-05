@@ -6,7 +6,7 @@ Aqui você verá os meus processos e codigos para o front end.
 
 Olá! Eu sou o Ângelo, e este é meu perfil de desenvolvimento front-end. Aqui, eu me dedico a criar interfaces web que não apenas são visualmente atraentes, mas também funcionais e responsivas. Utilizo as mais recentes tecnologias e práticas da indústria para garantir que cada elemento do meu projeto seja pensado para oferecer a melhor experiência possível aos usuários. Explore-o para descobrir como estou elevando o padrão do desenvolvimento web front-end!
 
-## Tecnologias Utilizadas
+## Linguagens 
 
 Este projeto é construído com as seguintes tecnologias:
 
@@ -14,6 +14,7 @@ Este projeto é construído com as seguintes tecnologias:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%#8B7765)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 ## Contribuindo
 
 Contribuições são bem-vindas! Se você tiver ideias, sugestões de melhorias ou encontrar algum problema, sinta-se à vontade para abrir uma issue ou enviar um pull request.
