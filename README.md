@@ -26,7 +26,7 @@ Este programador está licenciado sob a [Licença MIT](LICENSE).
 
 <div align = "center">
 
-<img height= "350" src = "https://github.com/Hermes-Ecaflip/Hermes-Ecaflip/assets/166053159/672576c1-f60b-4dc7-95f9-e78616db39e3">
+<img height= "300" src = "https://github.com/Hermes-Ecaflip/Hermes-Ecaflip/assets/166053159/672576c1-f60b-4dc7-95f9-e78616db39e3">
 
 </div>
 
