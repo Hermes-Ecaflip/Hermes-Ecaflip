@@ -1,10 +1,10 @@
 ## Bem-vindo ao Meu Projeto Incrível! 🚀
 
-Este é o repositório do meu projeto incrível. Aqui você encontrará tudo o que precisa saber para começar.
+Aqui você verá os meus processos e codigos para o front end.
 
 ## Visão Geral
 
-Olá! Eu sou o Ângelo, e este é meu projeto de desenvolvimento front-end. Aqui, eu me dedico a criar interfaces web que não apenas são visualmente atraentes, mas também funcionais e responsivas. Utilizo as mais recentes tecnologias e práticas da indústria para garantir que cada elemento do meu projeto seja pensado para oferecer a melhor experiência possível aos usuários. Explore-o para descobrir como estou elevando o padrão do desenvolvimento web front-end!
+Olá! Eu sou o Ângelo, e este é meu perfil de desenvolvimento front-end. Aqui, eu me dedico a criar interfaces web que não apenas são visualmente atraentes, mas também funcionais e responsivas. Utilizo as mais recentes tecnologias e práticas da indústria para garantir que cada elemento do meu projeto seja pensado para oferecer a melhor experiência possível aos usuários. Explore-o para descobrir como estou elevando o padrão do desenvolvimento web front-end!
 
 ## Tecnologias Utilizadas
 
@@ -22,11 +22,12 @@ Contribuições são bem-vindas! Se você tiver ideias, sugestões de melhorias 
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
+Este programador está licenciado sob a [Licença MIT](LICENSE).
 
+<div align = "center">
 
+<img height= "350" src = "https://github.com/Hermes-Ecaflip/Hermes-Ecaflip/assets/166053159/672576c1-f60b-4dc7-95f9-e78616db39e3">
 
-<img height= "400" src = "https://github.com/Hermes-Ecaflip/Hermes-Ecaflip/assets/166053159/8aa38dc8-f87e-4385-80b4-2402ebb5d8e0">
-
+</div>
 
 
