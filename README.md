@@ -20,7 +20,11 @@ Contribuições são bem-vindas! Se você tiver ideias, sugestões de melhorias 
 
 ## Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Hermes-Ecaflip&show_icons=true&theme=radical&hide_rank=true&hide_title=true&include_all_commits=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Hermes-Ecaflip&show_icons=true&theme=radical)
+
+
+
+
 
 
 
