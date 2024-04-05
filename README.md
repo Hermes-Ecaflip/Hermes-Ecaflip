@@ -18,6 +18,10 @@ Este projeto é construído com as seguintes tecnologias:
 
 Contribuições são bem-vindas! Se você tiver ideias, sugestões de melhorias ou encontrar algum problema, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
+## Estatísticas
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Hermes-Ecaflip&show_icons=true&theme=radical&hide_rank=true&hide_title=true&include_all_commits=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
 
 
 ## Licença
