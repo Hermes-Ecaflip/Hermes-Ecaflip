@@ -24,7 +24,7 @@ Contribuições são bem-vindas! Se você tiver ideias, sugestões de melhorias 
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
-[![Meu](https://www.behance.net/gallery/55389655/gif-Collection-Two/modules/326567415)](https://www.behance.net/gallery/55389655/gif-Collection-Two/modules/326567415)
+
 
 
 
