@@ -8,6 +8,7 @@ Olá! Eu sou o Ângelo, e este é meu perfil de desenvolvimento front-end. Aqui,
 
 ## Projetos
 1. Front-end-Senai
+
 Descrição: Um projeto desenvolvido durante o curso de Front-end do Senai, onde aprendi e apliquei conceitos de HTML, CSS e JavaScript.
 
 Repositório: Front-end-Senai
