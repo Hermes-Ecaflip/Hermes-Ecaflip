@@ -6,6 +6,7 @@ Aqui você verá os meus processos e codigos para o front end.
 
 Olá! Eu sou o Ângelo, e este é meu perfil de desenvolvimento front-end. Aqui, eu me dedico a criar interfaces web que não apenas são visualmente atraentes, mas também funcionais e responsivas. Utilizo as mais recentes tecnologias e práticas da indústria para garantir que cada elemento do meu projeto seja pensado para oferecer a melhor experiência possível aos usuários. Explore-o para descobrir como estou elevando o padrão do desenvolvimento web front-end!
 
+## Projetos
 1. Front-end-Senai
 Descrição: Um projeto desenvolvido durante o curso de Front-end do Senai, onde aprendi e apliquei conceitos de HTML, CSS e JavaScript.
 
