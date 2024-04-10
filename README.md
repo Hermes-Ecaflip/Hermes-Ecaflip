@@ -18,6 +18,7 @@ Repositório: Front-end-Senai
 </a>
 
 
+
 2. Confeitaria
 
 Descrição: Um projeto desenvolvido durante o curso de Front-end do Senai, onde aprendi e apliquei conceitos de HTML, CSS e JavaScript.
