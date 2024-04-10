@@ -18,6 +18,17 @@ Repositório: Front-end-Senai
 </a>
 
 
+2. Confeitaria
+
+Descrição: Um projeto desenvolvido durante o curso de Front-end do Senai, onde aprendi e apliquei conceitos de HTML, CSS e JavaScript.
+
+Repositório: Confeitaria
+
+<a href="https://github.com/Hermes-Ecaflip" target="_blank">
+  <img src="https://github.com/Hermes-Ecaflip/Hermes-Ecaflip/assets/166053159/c63afdfb-44a0-46d2-8f1e-446cc4b7f638" alt="Confeitaria" width="100">
+</a>
+
+
 
 ## Linguagens 
 
