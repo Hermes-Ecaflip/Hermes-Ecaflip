@@ -33,21 +33,21 @@ Repository: Confectionery
 
 Languages I know how to use:
 
-[HTML5](https://github.com/Hermes-Ecaflip)
+<a href="https://github.com/Hermes-Ecaflip">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+</a>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<a href="https://github.com/Hermes-Ecaflip">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</a>
 
-[CSS3](https://github.com/Hermes-Ecaflip)
+<a href="https://github.com/Hermes-Ecaflip">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%#8B7765" alt="JavaScript">
+</a>
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-[JavaScript](https://github.com/Hermes-Ecaflip)
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%#8B7765)
-
-[C#](https://github.com/Hermes-Ecaflip)
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+<a href="https://github.com/Hermes-Ecaflip">
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+</a>
 
 
 ## Contributing
