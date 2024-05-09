@@ -13,9 +13,9 @@ Description: A project developed during the Senai front-end course, where I lear
 
 Repository: Front-end-Senai
 
-[Front-end-Senai](https://github.com/Hermes-Ecaflip/Front-end-Senai)
-
-![Front-end-Senai](https://logodownload.org/wp-content/uploads/2019/08/senai-logo-1.png)
+<a href="https://github.com/Hermes-Ecaflip/Front-end-Senai" target="_blank">
+  <img src="https://logodownload.org/wp-content/uploads/2019/08/senai-logo-1.png" alt="Front-end-Senai" width="100">
+</a>
 
 
 2. Confectionery
@@ -24,9 +24,9 @@ Description: A project developed during the Senai front-end course, where I lear
 
 Repository: Confectionery
 
-[Confectionery](https://github.com/Hermes-Ecaflip/Confectionery)
-
-![Confectionery](https://github.com/Hermes-Ecaflip/Hermes-Ecaflip/assets/166053159/c63afdfb-44a0-46d2-8f1e-446cc4b7f638)
+<a href="https://github.com/Hermes-Ecaflip/Confeitaria" target="_blank">
+  <img src="https://github.com/Hermes-Ecaflip/Hermes-Ecaflip/assets/166053159/c63afdfb-44a0-46d2-8f1e-446cc4b7f638" alt="Confeitaria" width="100">
+</a>
 
 
 ## Languages
