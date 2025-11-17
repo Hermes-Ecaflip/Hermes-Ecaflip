@@ -34,7 +34,7 @@ A project focused on CRM structures and integrated systems using the Siebel ecos
 
 🔗 **Repository:** Siebel  
 <a href="https://github.com/Hermes-Ecaflip/SIEBEL" target="_blank">
-  <img src="https://seeklogo.com/images/T/tim-logo-248296B0F0-seeklogo.com.png" alt="Siebel" width="120">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/TIM_logo_2016.png" alt="TIM Logo" width="120">
 </a>
 
 ---
