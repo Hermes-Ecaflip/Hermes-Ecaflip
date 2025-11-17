@@ -29,12 +29,12 @@ A structured project developed during the Senai course, applying essential conce
 
 ---
 
-### **2. Confectionery**
-A practical project focusing on layout, structure, and responsive concepts using HTML, CSS, and JavaScript.
+### **2. Siebel**
+A project focused on CRM structures and integrated systems using the Siebel ecosystem.
 
 🔗 **Repository:** Siebel  
-<a href="https://github.com/Hermes-Ecaflip/Confeitaria" target="_blank">
-  <img src="https://share.google/mMwpaTkMORx5FZTj1" alt="Siebel" width="120">
+<a href="https://github.com/Hermes-Ecaflip/SIEBEL" target="_blank">
+  <img src="https://logodownload.org/wp-content/uploads/2014/04/tim-logo-1.png" alt="Siebel" width="120">
 </a>
 
 ---
