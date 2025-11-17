@@ -1,69 +1,81 @@
 # Welcome to My Profile! 🚀
 
-Here you will see my processes and codes for front-end development.
+Here you will find my work, projects, and ongoing evolution as a Full Stack developer.
 
-## Overview
+---
 
-Hello! I am Ângelo, and this is my front-end development profile. Here, I dedicate myself to creating web interfaces that are not only visually attractive but also functional and responsive. I use the latest technologies and industry practices to ensure that every element of my project is designed to offer the best possible experience to users. Explore it to discover how I am raising the standard of front-end web development!
+## 👨‍💻 About Me
 
-## Projects
-1. Front-end-Senai
+Hello! My name is **Ângelo**, and I am a **Full Stack Developer** with academic background in:
 
-Description: A project developed during the Senai front-end course, where I learned and applied concepts of HTML, CSS, and JavaScript.
+- 🎓 **Database Management**
+- 🎓 **Systems Analysis and Development**
+- 💻 **Full Stack Development**
 
-Repository: Front-end-Senai
+I build complete solutions — from polished front-end interfaces to robust back-end architecture — focusing on performance, scalability, and user experience.  
+My mission is to create clean, efficient, and modern applications using best practices and up-to-date technologies.
 
+---
+
+## 🚀 Projects
+
+### **1. Front-end Senai**
+A structured project developed during the Senai course, applying essential concepts of HTML, CSS, and JavaScript.
+
+🔗 **Repository:** Front-end-Senai  
 <a href="https://github.com/Hermes-Ecaflip/Front-end-Senai" target="_blank">
-  <img src="https://logodownload.org/wp-content/uploads/2019/08/senai-logo-1.png" alt="Front-end-Senai" width="100">
+  <img src="https://logodownload.org/wp-content/uploads/2019/08/senai-logo-1.png" alt="Front-end-Senai" width="120">
 </a>
 
+---
 
-2. Confectionery
+### **2. Confectionery**
+A practical project focusing on layout, structure, and responsive concepts using HTML, CSS, and JavaScript.
 
-Description: A project developed during the Senai front-end course, where I learned and applied concepts of HTML, CSS, and JavaScript.
-
-Repository: Confectionery
-
+🔗 **Repository:** Confectionery  
 <a href="https://github.com/Hermes-Ecaflip/Confeitaria" target="_blank">
-  <img src="https://github.com/Hermes-Ecaflip/Hermes-Ecaflip/assets/166053159/c63afdfb-44a0-46d2-8f1e-446cc4b7f638" alt="Confeitaria" width="100">
+  <img src="https://github.com/Hermes-Ecaflip/Hermes-Ecaflip/assets/166053159/c63afdfb-44a0-46d2-8f1e-446cc4b7f638" alt="Confectionery" width="120">
 </a>
 
+---
 
-## Languages
+## 🧠 Languages & Technologies
 
-Languages I know how to use:
+Technologies I use consistently:
 
-<a href="https://github.com/Hermes-Ecaflip">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-</a>
+<a><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white"></a>
 
-<a href="https://github.com/Hermes-Ecaflip">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</a>
+---
 
-<a href="https://github.com/Hermes-Ecaflip">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%#8B7765" alt="JavaScript">
-</a>
+## 🤝 Contributing
 
-<a href="https://github.com/Hermes-Ecaflip">
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-</a>
+Contributions are always welcome!  
+Feel free to open issues or submit pull requests with improvements, ideas, or enhancements.
 
+---
 
-## Contributing
-
-Contributions are welcome! If you have ideas, suggestions for improvements, or find any problems, feel free to open an issue or send a pull request.
-
-## Statistics
+## 📊 Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hermes-Ecaflip&show_icons=true&theme=radical)
 
+---
 
-## License
+## 📝 License
 
 This programmer is licensed under the [MIT License](LICENSE).
 
-<div align = "center">
+---
+
+<div align="center">
 
 ![Image](https://github.com/Hermes-Ecaflip/Hermes-Ecaflip/assets/166053159/672576c1-f60b-4dc7-95f9-e78616db39e3)
 
