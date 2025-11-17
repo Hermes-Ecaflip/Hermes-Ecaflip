@@ -32,9 +32,9 @@ A structured project developed during the Senai course, applying essential conce
 ### **2. Confectionery**
 A practical project focusing on layout, structure, and responsive concepts using HTML, CSS, and JavaScript.
 
-🔗 **Repository:** Confectionery  
+🔗 **Repository:** Siebel  
 <a href="https://github.com/Hermes-Ecaflip/Confeitaria" target="_blank">
-  <img src="https://github.com/Hermes-Ecaflip/Hermes-Ecaflip/assets/166053159/c63afdfb-44a0-46d2-8f1e-446cc4b7f638" alt="Confectionery" width="120">
+  <img src="https://share.google/mMwpaTkMORx5FZTj1" alt="Siebel" width="120">
 </a>
 
 ---
