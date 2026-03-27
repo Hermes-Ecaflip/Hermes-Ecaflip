@@ -14,9 +14,9 @@
 ### 🕹️ PAC-MAN DEVORANDO MEUS COMMITS...
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hermes-Ecaflip/Hermes-Ecaflip/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hermes-Ecaflip/Hermes-Ecaflip/output/github-contribution-grid-snake.svg" />
-  <img alt="pac-man contribution graph" src="https://raw.githubusercontent.com/Hermes-Ecaflip/Hermes-Ecaflip/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hermes-Ecaflip/Hermes-Ecaflip/output/pacman.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hermes-Ecaflip/Hermes-Ecaflip/output/pacman.svg" />
+  <img alt="pac-man contribution graph" src="https://raw.githubusercontent.com/Hermes-Ecaflip/Hermes-Ecaflip/output/pacman.svg" />
 </picture>
 
 > 🕹️ *Esse Pac-Man está devorando meus commits. Alimentado por café e bugs.* ☕
