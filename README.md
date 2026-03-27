@@ -8,10 +8,10 @@
 
 ---
 
-<!-- PAC-MAN COMENDO OS REPOSITÓRIOS -->
+<!-- Cobrinha COMENDO OS REPOSITÓRIOS -->
 <div align="center">
 
-### 🕹️ PAC-MAN DEVOURANDO MEUS REPOSITÓRIOS...
+### 🕹️ DEVOURANDO MEUS REPOSITÓRIOS...
 
 ```
   ███████████████████████████████████████████████████████████
