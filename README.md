@@ -11,7 +11,7 @@
 <!-- PAC-MAN COMENDO OS COMMITS -->
 <div align="center">
 
-### 🕹️ PAC-MAN DEVORANDO MEUS COMMITS...
+### 🕹️ COBRINHA DEVORANDO MEUS COMMITS...
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hermes-Ecaflip/Hermes-Ecaflip/output/github-contribution-grid-snake-dark.svg" />
@@ -19,7 +19,7 @@
   <img alt="github contribution graph" src="https://raw.githubusercontent.com/Hermes-Ecaflip/Hermes-Ecaflip/output/github-contribution-grid-snake.svg" />
 </picture>
 
-> 🕹️ *Esse Pac-Man está devorando meus commits. Alimentado por café e bugs.* ☕
+> 🕹️ *Essa cobra está devorando meus commits. Alimentado por café e bugs.* ☕
 
 </div>
 
