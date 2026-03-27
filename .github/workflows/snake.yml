@@ -1,4 +1,4 @@
-name: generate pac-man
+name: generate snake
 
 on:
   schedule:
@@ -11,20 +11,14 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v3
-
-      - uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
-
-      - name: Generate Pac-Man SVG
-        uses: Muhammad-Rebaal/pac-man-contribution-graph@main
+      - uses: Platane/snk@v3
         with:
           github_user_name: Hermes-Ecaflip
-          output_file: dist/pacman.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
