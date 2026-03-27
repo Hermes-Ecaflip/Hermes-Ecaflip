@@ -8,23 +8,18 @@
 
 ---
 
-<!-- Cobrinha COMENDO OS REPOSITÓRIOS -->
+<!-- PAC-MAN COMENDO OS COMMITS -->
 <div align="center">
 
-### 🕹️ DEVOURANDO MEUS REPOSITÓRIOS...
+### 🕹️ PAC-MAN DEVORANDO MEUS COMMITS...
 
-```
-  ███████████████████████████████████████████████████████████
-  █                                                         █
-  █  👾 FRONT-END  👾 SIEBEL  👾 DATABASE  👾 FULLSTACK     █
-  █  · · · · · · · · · · · · · · · · · · · · · ·           █
-  █                                              ᗤ          █
-  ███████████████████████████████████████████████████████████
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hermes-Ecaflip/Hermes-Ecaflip/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hermes-Ecaflip/Hermes-Ecaflip/output/github-contribution-grid-snake.svg" />
+  <img alt="pac-man contribution graph" src="https://raw.githubusercontent.com/Hermes-Ecaflip/Hermes-Ecaflip/output/github-contribution-grid-snake.svg" />
+</picture>
 
-[![Pac-Man](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)](https://github.com/Hermes-Ecaflip)
-
-> ☝️ *Sim, esse Pac-Man está comendo meus commits. Alimentado por café e bugs.* ☕
+> 🕹️ *Esse Pac-Man está devorando meus commits. Alimentado por café e bugs.* ☕
 
 </div>
 
@@ -191,7 +186,7 @@ Este programador é licenciado sob a [MIT License](LICENSE).
 
 ### 👁️ Visitantes do perfil
 
-![Visitor Count](https://profile-counter.glitch.me/Hermes-Ecaflip/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=Hermes-Ecaflip&color=ff69b4&style=for-the-badge&label=VISITANTES)
 
 ---
 
